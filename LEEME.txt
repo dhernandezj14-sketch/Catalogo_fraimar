@@ -1,0 +1,9 @@
+CATÁLOGO FRAIMAR 2026 — FRAIMAR LUXURY JEWELRY
+
+La página está preparada con el título “Catálogo Fraimar 2026”.
+Para abrirla localmente, descomprime este ZIP y abre index.html en tu navegador.
+Conserva la carpeta images junto a index.html.
+
+Importante: el nombre bonito de la página y el título del navegador no crean por sí solos una URL pública. Para tener un enlace como catalogofraimar2026.netlify.app, debes publicar esta carpeta en un servicio de alojamiento web.
+
+Actualización de navegación: el carrusel de Clientes felices ya no desplaza la página completa automáticamente. Los enlaces superiores de Cadenas, Pulseras, Anillos, Aretes y Dijes llevan directamente a su categoría en la sección Todo.
